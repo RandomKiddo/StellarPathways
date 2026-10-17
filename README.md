@@ -14,9 +14,9 @@ ___
 
 ## Repository Content
 
-| Number | Title | Description | Last Updated |
-| :--- | :--- | :--- | :--- |
-| **1** | **Professional Plotting** | Learn to create polished, journal-quality figures, including better styling, using $\LaTeX$, making plots CVD-friendly, using astronomy plot convetions, and outputting clean images. | 10/06/2026 |
+| Number | Title | Description |
+| :--- | :--- | :--- | 
+| **1** | **Professional Plotting** | Learn to create polished, journal-quality figures, including better styling, using $\LaTeX$, making plots CVD-friendly, using astronomy plot convetions, and outputting clean images. | 
 
 
 ___
