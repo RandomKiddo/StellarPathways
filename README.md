@@ -17,10 +17,11 @@ ___
 | Number | Title | Description |
 | :--- | :--- | :--- | 
 | **1** | **Professional Plotting** | Learn to create polished, journal-quality figures, including better styling, using $\LaTeX$, making plots CVD-friendly, using astronomy plot convetions, and outputting clean images. | 
+| **1-I** | **Professional Plotting - Addendum I** | Create a custom `.mplstyle` stylesheet and host it on GitHub for multi-project, multi-environment styling. | 
 
 
 ___
 
-<sub>This page was last edited on 10.17.2026</sub>
+<sub>This page was last edited on 10.24.2026</sub>
 
 [Back to Top](#stellar-pathways)
