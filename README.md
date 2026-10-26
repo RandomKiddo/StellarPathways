@@ -8,7 +8,7 @@ The name for this repository was courtesy of another astronomer (prefers to rema
 
 Designed by Neil Ghugare, Intended for [PHYSDepot](https://physdepot.org).
 
-As of 10/17/2026, this repository is still being *actively worked on and developed*.
+As of 10/26/2026, this repository is still being *actively worked on and developed*.
 
 ___
 
@@ -17,11 +17,13 @@ ___
 | Number | Title | Description |
 | :--- | :--- | :--- | 
 | **1** | **Professional Plotting** | Learn to create polished, journal-quality figures, including better styling, using $\LaTeX$, making plots CVD-friendly, using astronomy plot convetions, and outputting clean images. | 
-| **1-I** | **Professional Plotting - Addendum I** | Create a custom `.mplstyle` stylesheet and host it on GitHub for multi-project, multi-environment styling. | 
+| **1-I** | **Professional Plotting - Addendum I** | Create a custom `.mplstyle` stylesheet and host it on GitHub for multi-project, multi-environment styling. |
+| **2** | **Documenting Code** | How to properly document code files, functions, use `help` to fetch documentation, and ways to make your life easier when documenting code. | 
+| **2-I** | **Documenting Code - Addendum I** | Learn about type hinting in Python and why you would want to use it. | 
 
 
 ___
 
-<sub>This page was last edited on 10.24.2026</sub>
+<sub>This page was last edited on 10.26.2026</sub>
 
 [Back to Top](#stellar-pathways)
